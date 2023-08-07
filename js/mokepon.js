@@ -71,6 +71,8 @@ ratigueya.ataques.push(
 
 mokepones.push(hipodoge, capipepo, ratigueya)
 
+console.log(mokepones)
+
 function iniciarjuego() {
   sectionSeleccionarAtaque.style.display = "none"
   sectionReiniciar.style.display = "none"
